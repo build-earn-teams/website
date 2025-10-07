@@ -123,7 +123,7 @@ If you’re a student or developer interested in contributing:
 ## 📬 Contact
 
 * **GitHub:** [build-earn-teams](https://github.com/build-earn-teams)
-* **Email:** [buildandearn.team@gmail.com](mailto:build.earn.teams@gmail.com)
+* **Email:** [build.earn.teams@gmail.com](mailto:build.earn.teams@gmail.com)
 
 ---
 
