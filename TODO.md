@@ -1,0 +1,3 @@
+- [x] Fix imports in backend/app.js (correct relative paths)
+- [x] Fix import in backend/src/controllers/userController.js (case mismatch for catchAsyncError)
+- [x] Fix import in backend/src/middleware/auth.js (case mismatch for catchAsyncError)
